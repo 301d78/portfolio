@@ -1,3 +1,3 @@
 # Modify this portfolio
 
-Make it your own! 
+[Deployed](https://jb-tellez-portfolio.netlify.app/)
